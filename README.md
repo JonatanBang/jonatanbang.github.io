@@ -11,3 +11,5 @@ Du er velkommen til at kigge rundt.
 This is the sourcecode for my personal homepage.
 
 Feel free to look around.
+
+:)
