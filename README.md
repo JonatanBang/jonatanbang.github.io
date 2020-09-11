@@ -1,12 +1,12 @@
 # jonatanbang.github.io
 
-Dansk:
+## Dansk:
 
 Dette er kildefilerne til min personlige hjemmeside.
 
 Du er velkommen til at kigge rundt.
 
-English:
+## English:
 
 This is the sourcecode for my personal homepage.
 
